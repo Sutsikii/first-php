@@ -9,8 +9,8 @@ $form = new Form(array(
 // var_dump($form);
 //     die();
 
-echo("Webhook");
-echo("Koukou");
+echo("Il a dit c'est bon ( je le crois pas )");
+
 
 echo $form->input('username');
 echo $form->submit();

@@ -12,6 +12,8 @@ $form = new Form(array(
 echo("Webhook");
 echo("Koukou");
 echo("Il m'a dit de refaire un commit");
+echo("Il m'a dit de refaire un commit");
+echo("Il m'a dit de refaire un commit");
 
 echo $form->input('username');
 echo $form->submit();

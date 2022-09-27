@@ -10,6 +10,7 @@ $form = new Form(array(
 //     die();
 
 echo("Il a dit c'est bon ( je le crois pas )");
+echo("Un retard?");
 
 
 echo $form->input('username');

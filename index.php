@@ -13,5 +13,6 @@ echo("Hello webhook");
 echo("Users Rules fixed");
 echo("Users Rules again...");
 echo("Loosing hope");
+echo("Just a linux bug !");
 echo $form->input('username');
 echo $form->submit();

@@ -10,4 +10,4 @@ jobs:
       - name: Call WebHook Web
         uses: wei/curl@v1
         with:
-          args: https://sutcorp-industry.com/first-php/webhook.php
+          args: https://sutcorp-industry.com/first-php/workflow/webhook.php

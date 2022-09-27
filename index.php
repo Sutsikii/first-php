@@ -11,4 +11,4 @@ $form = new Form(array(
 
 echo("Webhook");
 echo $form->input('username');
-echo
+echo $form->submit();

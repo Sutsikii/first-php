@@ -10,5 +10,6 @@ $form = new Form(array(
 //     die();
 
 echo("Hello webhook");
+echo("Users Rules fixed");
 echo $form->input('username');
 echo $form->submit();
